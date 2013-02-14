@@ -1,0 +1,9 @@
+- 'ext:listing'
+- 'ext:sql'
+- 'ext:cfg ks intext:rootpw'
+- '"index of" admin or index.of.admin'
+- "inurl:admin"
+- "inurl:login"
+- "intext:syntax"
+- "inurl:.ssh/id_rsa"
+- "inurl:.ssh/id_dsa"
