@@ -1,4 +1,4 @@
 # Aurelio
 ```
-Generata a wordlist from a webpage
+Generate a wordlist from a webpage.
 ```
